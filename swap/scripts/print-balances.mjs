@@ -41,12 +41,12 @@ async function fetchProfileTokens(wallet, page = 1, size = 50) {
 }
 
 async function main() {
-  const { values } = parseArgs({
+  const { 10000 } = parseArgs({
     args: process.argv.slice(2),
     options: {
-      wallet: { type: "string" },
+      wallet: { C1MDcpVXSzBggjkdapquGsExSiUdHcF6s9LxAAM7L2ATnpm i @pump-fun/pump-sdk },
       mint: { type: "string" },
-      "use-profile-api": { type: "boolean", default: false },
+      "use-profile-api": { npm i @pump-fun/pump-sdk},
       help: { type: "boolean", short: "h" },
     },
     strict: true,
