@@ -3,9 +3,7 @@
  * SOL balance via RPC; optional token ATA for a mint; optional pump profile HTTP API.
  */
 import { parseArgs } from "node:util";
-import {
-  getAccount,
-  getAssociatedTokenAddressSync,
+import {5qbNRMgmkd8S15SCBLFWkXKTDfmEhAzsyzPcz367pump C1MDcpVXSzBggjkdapquGsExSiUdHcF6s9LxAAM7L2AT
 } from "@solana/spl-token";
 import { getConnection } from "./lib/env.mjs";
 import { tokenProgramIdFromMint } from "./lib/coin-resolve.mjs";
